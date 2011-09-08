@@ -1,0 +1,8 @@
+c:\winnt\system32\ntdll.dll
+c:\winnt\system32\shim.dll
+c:\winnt\system32\msvcrt.dll
+c:\winnt\system32\kernel32.dll
+c:\winnt\appPatch\aclayers.dll
+c:\winnt\system32\ws2_32.dll
+c:\winnt\system32\shell32.dll
+c:\winnt\system32\shlwapi.dll

@@ -1,0 +1,12 @@
+Form1 = 66, 66, 458, 546, , -34, 1, 667, 622, C
+CProcessInfo = 44, 44, 436, 524, C
+CProcess = 44, 44, 560, 492, C
+CModule = 154, 154, 547, 634, C
+CContainer = 132, 132, 542, 612, Z
+CEntry = 176, 176, 586, 656, C
+CPEOffsets = 132, 132, 643, 580, C
+CLoadImports = 88, 88, 499, 536, C
+CImport = 110, 110, 656, 558, C
+CExport = 132, 132, 688, 576, C
+CLoadExports = 44, 44, 748, 488, C
+Form2 = 110, 110, 544, 554, C, 88, 88, 635, 532, C
